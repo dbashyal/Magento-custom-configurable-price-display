@@ -3,7 +3,7 @@ Magento Display Custom Configurable Price on product options
 
 I am playing around price.phtml to display 'from' on the configurable products.
 
-for more information visit: http://learntipsandtricks.com/blog/c/magento
+for more information visit: http://dltr.org/blog/c/magento
 
 if you want to use skin...js/varien/configurable.js
 
